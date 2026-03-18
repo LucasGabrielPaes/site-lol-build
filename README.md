@@ -16,3 +16,10 @@ Dicas de gameplay
 Interface moderna e intuitiva
 
 Layout responsivo
+
+Identificação do Grupo:
+Lucas Gabriel Paes Landim Sousa 
+
+Miguel Moura 
+
+Maria Eduarda 
