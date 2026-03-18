@@ -18,6 +18,6 @@ Interface moderna e intuitiva
 Layout responsivo
 
  Membros
--Lucas Gabriel Paes Landim Sousa 
--Miguel Moura 
--Maria Eduarda 
+Lucas Gabriel Paes Landim Sousa 
+Miguel Moura 
+Maria Eduarda 
