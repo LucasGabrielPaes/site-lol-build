@@ -1,11 +1,11 @@
 # site-lol-build
-# 🎮 LoL Build Central
+#  LoL Build Central
 
 Plataforma web desenvolvida para fornecer builds rápidas e estratégias eficientes para jogadores de **League of Legends**, focando em praticidade durante as partidas.
 
 ---
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 O **LoL Build Central** foi criado com o objetivo de ajudar jogadores (nível iniciante a intermediário) a acessarem builds de forma rápida, sem perder tempo durante o jogo.
 
