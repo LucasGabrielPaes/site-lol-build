@@ -18,6 +18,6 @@ A aplicação apresenta:
 -Membros:
 - Lucas Gabriel Paes
 - Miguel Moura
-- Maria Eduarda
+- Maria Eduarda Marques
 
 ---
